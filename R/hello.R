@@ -7,8 +7,7 @@ hello <- function() {
 #'
 #' @param base_size base font size
 #' @param fase_family base font family
-#' @return numeric vector giving number of characters in each element of the
-#'   character vector.  Missing strings have missing length.
+#' @return Return theme function for ggplots
 #' @seealso \code{\link{nchar}} which this function wraps
 #' @export
 #' @examples
