@@ -1,9 +1,10 @@
 Package: rCDL
 Type: Package
-Title: What the Package Does (Title Case)
+Title: Compass Digital Labs Internal R Package
 Version: 0.1.0
-Author: Who wrote it
-Maintainer: Who to complain to <yourfault@somewhere.net>
-Description: More about what it does (maybe more than one line)
-License: What license is it under?
+Author: Michael Yan, Sanaz Golriz, Kunnal Kainth
+Maintainer: Michael Yan <michael@compassdigital.io>
+Description: We don't have to explain it here, do we?
+License: Private
 LazyData: TRUE
+RoxygenNote: 5.0.1

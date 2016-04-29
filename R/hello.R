@@ -8,10 +8,10 @@ hello <- function() {
 #' @param base_size base font size
 #' @param fase_family base font family
 #' @return Return theme function for ggplots
-#' @seealso \code{\link{nchar}} which this function wraps
 #' @export
 #' @examples
 #' ggplot() + theme_cdl()
+#'
 theme_cdl <- function(base_size = 12, base_family = "") {
   theme( axis.text = element_blank(),
          axis.text.x =  element_blank(),
